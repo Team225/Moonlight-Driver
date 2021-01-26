@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Driving_Game_Prototype_1",
+"productVersion": "0.1",
+"dataUrl": "Moonlight_Driver.data.unityweb",
+"wasmCodeUrl": "Moonlight_Driver.wasm.code.unityweb",
+"wasmFrameworkUrl": "Moonlight_Driver.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
